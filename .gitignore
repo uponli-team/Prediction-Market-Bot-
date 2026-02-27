@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.gemini/
+*.log
+research_data.json
+ticker_fundamentals.csv
+ticker_volumes.csv
+earnings_dates.json
