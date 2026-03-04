@@ -8,3 +8,5 @@ research_data.json
 ticker_fundamentals.csv
 ticker_volumes.csv
 earnings_dates.json
+user_seen.json
+sent_alerts.json
